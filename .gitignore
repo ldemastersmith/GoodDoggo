@@ -1,0 +1,6 @@
+# Don't track content of these folder
+__pycache__/
+
+# Don't track API keys
+twAPI_tokens_GoodDoggo.py
+
