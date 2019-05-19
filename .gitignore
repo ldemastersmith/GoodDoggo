@@ -1,4 +1,4 @@
-# Don't track content of these folder
+# Don't track contents of these folders
 __pycache__/
 
 # Don't track API keys
