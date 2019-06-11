@@ -2,5 +2,6 @@
 __pycache__/
 
 # Don't track API keys
+twAPI_tokens_testing.py
 twAPI_tokens_GoodDoggo.py
 
